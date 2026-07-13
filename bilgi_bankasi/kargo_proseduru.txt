@@ -1,0 +1,59 @@
+KARGO VE TESLİMAT PROSEDÜRÜ
+
+1. Siparişin Hazırlanması
+
+Ödemesi onaylanan siparişler 1-3 iş günü içerisinde hazırlanarak kargo firmasına teslim edilir.
+
+Hafta sonu ve resmî tatil günlerinde sipariş hazırlama işlemi yapılmaz. Bu günlerde oluşturulan siparişler takip eden ilk iş gününde işleme alınır.
+
+Kişiye özel hazırlanan ürünlerin kargoya verilme süresi ürün türüne göre 3-7 iş günü arasında değişebilir.
+
+2. Kargo Takip Numarası
+
+Sipariş kargo firmasına teslim edildiğinde müşteriye SMS ve e-posta yoluyla kargo takip numarası gönderilir.
+
+Müşteri, kargo takip numarasını kullanarak kargo firmasının internet sitesi üzerinden gönderisinin durumunu takip edebilir.
+
+Kargo takip numarası oluşmamış siparişler henüz kargo firmasına teslim edilmemiştir.
+
+3. Tahmini Teslimat Süresi
+
+Siparişler kargoya verildikten sonra genellikle 1-4 iş günü içerisinde teslim edilir.
+
+Kırsal bölgelerde, mobil dağıtım alanlarında ve yoğun dönemlerde teslimat süresi uzayabilir.
+
+Belirtilen teslimat süreleri tahminidir. Hava koşulları, resmî tatiller, bölgesel yoğunluk ve kargo firması kaynaklı gecikmeler teslimat süresini etkileyebilir.
+
+4. Hasarlı Paket İşlemleri
+
+Müşteri, teslimat sırasında pakette ezilme, yırtılma, ıslanma veya açılma fark ederse kargo görevlisinden hasar tespit tutanağı hazırlamasını istemelidir.
+
+Hasar tespit tutanağı hazırlanmadan teslim alınan ürünlerde fiziksel hasarın taşıma sırasında oluştuğunun doğrulanması zorlaşabilir.
+
+Hasarlı ürün bildirimi, teslimat tarihinden itibaren en geç 3 gün içerisinde müşteri hizmetlerine yapılmalıdır.
+
+Müşteri bildirim sırasında sipariş numarasını, hasar tespit tutanağını ve ürünün fotoğraflarını paylaşmalıdır.
+
+5. Teslim Edilemeyen Siparişler
+
+Alıcının adreste bulunamaması durumunda kargo firması teslimatı tekrar deneyebilir veya gönderiyi ilgili kargo şubesine bırakabilir.
+
+Şubede bekleme süresi kargo firmasına göre değişmekle birlikte genellikle 3 iş günüdür.
+
+Belirtilen süre içerisinde teslim alınmayan gönderiler şirkete geri gönderilebilir.
+
+Müşterinin yanlış veya eksik adres bildirmesi nedeniyle geri dönen gönderilerin yeniden gönderim ücreti müşteriden talep edilebilir.
+
+6. Adres Değişikliği
+
+Sipariş kargoya verilmeden önce müşteri hizmetleri üzerinden teslimat adresi değişikliği talep edilebilir.
+
+Sipariş kargoya verildikten sonra adres değişikliği garanti edilmez. Bu durumda müşteri, kargo firmasıyla iletişime yönlendirilebilir.
+
+7. Kayıp Kargo İşlemleri
+
+Kargo takip bilgilerinde 5 iş gününden uzun süre hareket görülmemesi durumunda müşteri hizmetleri kargo firmasıyla inceleme başlatır.
+
+Kargonun kayıp olduğunun doğrulanması hâlinde müşteriye yeni ürün gönderimi veya ücret iadesi seçenekleri sunulur.
+
+İnceleme süresi kargo firmasına bağlı olarak 3-10 iş günü sürebilir.
